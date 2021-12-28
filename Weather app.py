@@ -44,6 +44,3 @@ def current_weather ():
 
 current_weather()
 
-#seven_day = input("Do you want to see the 7 day average? ")
-
-#if seven_day =
